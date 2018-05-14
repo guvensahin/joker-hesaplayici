@@ -1,10 +1,13 @@
 # Yemeksepeti Joker Hesaplayıcısı
-Nedir ? Yemeksepetinden verilen toplu siparişlerde; siparişe joker indirimi uygulandıktan sonra, tarafların indirim öncesinde aldığı ürünlere göre indirim sonrasında ne kadar ödemesi gerektiğini hesaplar. 
-Kısaca indirimi taraflar arasında doğru şekilde paylaştırır.
-
 http://joker.guvensahin.com
 
-Nasıl Kullanılır ?
+# Nedir ?
+Yemeksepetinden verilen toplu siparişlerde; siparişe joker indirimi uygulandıktan sonra, tarafların indirim öncesinde aldığı ürünlere göre indirim sonrasında ne kadar ödemesi gerektiğini hesaplar. 
+Kısaca indirimi taraflar arasında doğru şekilde paylaştırır.
+
+
+
+# Nasıl Kullanılır ?
 - Toplu siparişe katılan kişilerin ismini ve aldığı ürünlerin toplam tutarını giriniz.
 ![örnek1](http://joker.guvensahin.com/inc/img/01.png)
 
