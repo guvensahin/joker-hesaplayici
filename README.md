@@ -8,12 +8,13 @@ Kısaca indirimi taraflar arasında doğru şekilde paylaştırır.
 
 
 # Nasıl Kullanılır ?
-- Toplu siparişe katılan kişilerin ismini ve aldığı ürünlerin toplam tutarını giriniz.
+Toplu siparişe katılan kişilerin ismini ve aldığı ürünlerin toplam tutarını giriniz.
 ![örnek1](http://joker.guvensahin.com/inc/img/01.png)
 
 
-- Ardından "Hesapla" butonuna basınız. Joker indirimi sipariş tutarı üzerinden otomatik uygulanacak ve sonuçları ekranda gösterilecektir.
+Ardından "Hesapla" butonuna basınız. Joker indirimi sipariş tutarı üzerinden otomatik uygulanacak ve sonuçları ekranda gösterilecektir.
 
 ![örnek1](http://joker.guvensahin.com/inc/img/02.png)
 
-Geliştirici Notu: 2013 senesinde, şirket içinde sıklıkla toplu sipariş verdiğimiz bir dönemde ihtiyacımız olduğu için yazdığım bir uygulama. O tarihten beri "http://joker.guvensahin.com" adresinde yayındadır. Kaynak kodlarını da paylaşmak istedim. Herhangi bir konuda http://guvensahin.com/iletisim adresinden bana ulaşabilirsiniz.
+# Geliştirici Notu
+2013 senesinde, şirket içinde sıklıkla toplu sipariş verdiğimiz bir dönemde ihtiyacımız olduğu için yazdığım bir uygulama. O tarihten beri "http://joker.guvensahin.com" adresinde yayındadır. Kaynak kodlarını da paylaşmak istedim. Herhangi bir konuda http://guvensahin.com/iletisim adresinden bana ulaşabilirsiniz.
