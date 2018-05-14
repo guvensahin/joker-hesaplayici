@@ -13,4 +13,4 @@ Nasıl Kullanılır ?
 
 ![örnek1](http://joker.guvensahin.com/inc/img/02.png)
 
-Geliştirici Notu: 2013 senesinde yazdığım bir uygulama. o tarihten beri "http://joker.guvensahin.com" adresinde yayındadır. Kaynak kodlarını paylaşmak istedim. Herhangi bir konuda http://guvensahin.com/iletisim adresinden bana ulaşabilirsiniz.
+Geliştirici Notu: 2013 senesinde, şirket içinde sıklıkla sipariş verdiğimiz bir dönemde kendimiz kullanmamız için yazdığım bir uygulama. o tarihten beri "http://joker.guvensahin.com" adresinde yayındadır. Kaynak kodlarını paylaşmak istedim. Herhangi bir konuda http://guvensahin.com/iletisim adresinden bana ulaşabilirsiniz.
