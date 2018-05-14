@@ -1,5 +1,5 @@
 # Yemeksepeti Joker Hesaplayıcısı
-http://joker.guvensahin.com
+http://joker.guvensahin.com adresinde yayın yapan sitenin kaynak kodları.
 
 # Nedir ?
 Yemeksepetinden verilen toplu siparişlerde; siparişe joker indirimi uygulandıktan sonra, tarafların indirim öncesinde aldığı ürünlere göre indirim sonrasında ne kadar ödemesi gerektiğini hesaplar. 
