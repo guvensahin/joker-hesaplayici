@@ -101,7 +101,7 @@
             <p>&nbsp;</p>
             <p>
 				&copy; 2013 - <?php echo date('Y'); ?> <a href="http://guvensahin.com" title="Güven Şahin">Tasarım ve Geliştirme</a> |
-				<a href="https://github.com/guvensahin/ysjokerhesaplayici" title="kaynak kodları">GitHub</a>
+				<a href="https://github.com/guvensahin/ysjokerhesaplayici" title="kaynak kodları">GitHub</a> |
 				<a href="http://benzersanatci.com" title="bir başka şükela araç: benzer sanatçı">benzer sanatçı</a>
 			</p>
         </div>
