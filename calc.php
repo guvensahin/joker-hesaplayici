@@ -42,6 +42,12 @@ if ($isAllValueValid)
 	
 	
 	// toplam ücrete joker indirimi uygulanır.
+	// 120 => 75
+	if ($totalPrice >= 120)
+	{
+		$newTotalPrice = $totalPrice - 45;
+        $discountName = '120 yerine 75 tl öde';
+	}
 	// 70 => 45
 	if ($totalPrice >= 70)
 	{
