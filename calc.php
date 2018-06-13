@@ -49,7 +49,7 @@ if ($isAllValueValid)
         $discountName = '120 yerine 75 tl öde';
 	}
 	// 70 => 45
-	if ($totalPrice >= 70)
+	elseif ($totalPrice >= 70)
 	{
 		$newTotalPrice = $totalPrice - 25;
         $discountName = '70 yerine 45 tl öde';
