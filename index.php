@@ -81,16 +81,6 @@
 
 
         <div class="span4">
-            <!-- AddThis Button BEGIN -->
-            <div class="addthis_toolbox addthis_floating_style addthis_counter_style" style="left:50px;top:50px;">
-                <a class="addthis_button_facebook_like" fb:like:layout="box_count"></a>
-                <a class="addthis_button_tweet" tw:count="vertical"></a>
-                <a class="addthis_button_google_plusone" g:plusone:size="tall"></a>
-                <a class="addthis_counter"></a>
-            </div>
-            <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
-            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f205ff166b840c7"></script>
-            <!-- AddThis Button END -->
         </div>
     </div>
     
@@ -102,7 +92,7 @@
             <p>
 				&copy; 2013 - <?php echo date('Y'); ?> <a href="http://guvensahin.com" title="Güven Şahin">Tasarım ve Geliştirme</a> |
 				<a href="https://github.com/guvensahin/joker-hesaplayici" title="kaynak kodları">GitHub</a> |
-				<a href="http://benzersanatci.com" title="bir başka şükela araç: benzer sanatçı">benzer sanatçı</a>
+				<a href="http://benzersanatci.guvensahin.com" title="bir başka şükela araç: benzer sanatçı">benzer sanatçı</a>
 			</p>
         </div>
     </div>
@@ -138,6 +128,8 @@
 
 
 
+<!-- AddThis -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bccaeacdea50552"></script> 
 
 
 </body>
