@@ -76,7 +76,24 @@
             <a class="btn" href="javascript:void(0);" onclick="addItemBox();"><i class="icon-plus"></i> Ortak Ekle</a>
 			<a class="btn btn-success" href="javascript:void(0);" onclick="calc();"><i class="icon-retweet"></i> Hesapla</a>
 			
-			
+			<br>
+			<br>
+			<br>
+
+			<div class="ads">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- joker - esnek kutu -->
+				<ins class="adsbygoogle"
+					 style="display:block"
+					 data-ad-client="ca-pub-2453073529147932"
+					 data-ad-slot="1587718225"
+					 data-ad-format="auto"
+					 data-full-width-responsive="true"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+
         </div>
 
 
