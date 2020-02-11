@@ -7,39 +7,17 @@
  */
 
 
-
 $(function(){
 
-
     addItemBox();
     addItemBox();
-
-
-
-    $('a.deleteItemBox').live('click', function()
-    {
-        var itemBoxCount = $('div.itemBox').length;
-
-        if (itemBoxCount > 2)
-        {
-            $(this).parent().remove();
-        }
-        else
-        {
-            alert('Sipariş veren en az 2 kişi olmalı.');
-        }
-    });
-
 
 
     // ücret girişi yapılan numeric(float) input kontrolü
-    $('.partnerPriceInput').live('focus', function(){
+    $('.partnerPriceInput').on('focus', function(){
         $(this).numeric();
     });
-
-
 });
-
 
 
 function addItemBox()
@@ -50,13 +28,22 @@ function addItemBox()
         dataType : 'html',
         success  : function(data)
         {
-            $('form#calcForm').append(data);
+            $('form').append(data);
         }
     });
 }
 
 
-
+function deleteItemBox(element)
+{
+    if ($('div.form-row').length > 2)
+    {
+        $(element).parent().parent().remove();
+    }
+    else {
+        alert('Sipariş veren en az 2 kişi olmalı.');
+    }
+}
 
 
 // hesapla butonuna basıldığında çalışır.
@@ -65,12 +52,12 @@ function calc()
     $.ajax({
         type     : 'POST',
         url      : 'calc.php',
-        data     : $('form#calcForm').serialize(),
+        data     : $('form').serialize(),
         dataType : 'html',
         success  : function(data)
         {
-            $('div#myModal div#modalContent').html(data);
-            $('div#myModal').modal('show');
+            $('.modal div#modalContentResult').html(data);
+            $('.modal').modal('show');
         }
     });
 }
