@@ -1,9 +1,7 @@
 /**
- * Created with JetBrains WebStorm.
- * User: Güven
- * Date: 07.03.2013
- * Time: 20:27
- * To change this template use File | Settings | File Templates.
+ * User: Güven Şahin (guvensahin.com)
+ * Creared Date: 07.03.2013
+ * Modified Date: 11.02.2020
  */
 
 
