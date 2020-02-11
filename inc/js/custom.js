@@ -20,6 +20,9 @@ function addItemBox()
         dataType : 'html',
         success  : function(data)
         {
+            num = $('div.form-row').length + 1;
+            data = data.replace('#PartnerName#', 'Ortak ' + num);
+
             $('form').append(data);
         }
     });
