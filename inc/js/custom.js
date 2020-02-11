@@ -7,16 +7,10 @@
  */
 
 
-$(function(){
-
+$(function ()
+{
     addItemBox();
     addItemBox();
-
-
-    // ücret girişi yapılan numeric(float) input kontrolü
-    $('.partnerPriceInput').on('focus', function(){
-        $(this).numeric();
-    });
 });
 
 
