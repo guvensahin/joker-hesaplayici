@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Bu uygulama; yemeksepetinden verilen toplu siparişlerde, siparişe joker indirimi uygulandıktan sonra, tarafların indirim öncesinde aldığı ürünlere göre indirim sonrasında ne kadar ödemesi gerektiğini hesaplar.">
     <meta name="keywords" content="yemeksepeti joker hesap, yemeksepeti joker hesaplayıcısı, joker, yemeksepeti, joker indirim">
-
+    <link rel="shortcut icon" href="/favicon.ico">
 
 
     <!-- CSS
