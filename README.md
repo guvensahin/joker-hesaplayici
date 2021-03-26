@@ -17,4 +17,4 @@ Ardından "Hesapla" butonuna basınız. Joker indirimi sipariş tutarı üzerind
 ![örnek1](http://joker.guvensahin.com/inc/img/02.png)
 
 ## Geliştirici Notu
-2013 senesinde, şirket içinde sıklıkla toplu sipariş verdiğimiz bir dönemde ihtiyacımız olduğu için yazdığım bir uygulama. O tarihten beri "http://joker.guvensahin.com" adresinde yayındadır. Kaynak kodlarını da paylaşmak istedim. Herhangi bir konuda http://guvensahin.com/iletisim adresinden bana ulaşabilirsiniz.
+2013 senesinde, şirket içinde sıklıkla toplu sipariş verdiğimiz bir dönemde ihtiyacımız olduğu için yazdığım bir uygulama. O tarihten beri "http://joker.guvensahin.com" adresinde yayındadır. Kaynak kodlarını da paylaşmak istedim. Herhangi bir konuda https://guvensahin.com/hakkimda adresinden bana ulaşabilirsiniz.
